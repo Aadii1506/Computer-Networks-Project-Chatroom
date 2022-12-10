@@ -1,6 +1,6 @@
 # Computer-Networks-Project-Chatroom
 
-A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients. By using socket programming on AWS platform, Interaction between admin and client can be effectively carried out, means the clients can chat with the admin or can discuss any query.
+A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients. By using socket programming on AWS platform, Interaction between clients can be effectively carried out, means the clients can chat with each other or can discuss any query on same server.
 
 Steps to run-
 firstly run the server using terminal write-> g++ chatserver.cpp -lpthread -o server
